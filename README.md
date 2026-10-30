@@ -1,1 +1,0 @@
-# Activity5_GlenPatrickTulayan_BSIT_2D
