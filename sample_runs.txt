@@ -1,0 +1,62 @@
+STACK OPERATIONS
+
+Array Stack:
+Push: A
+Push: B
+Push: C
+Current Stack: ['A', 'B', 'C']
+Peek: C
+Pop: C
+Updated Stack: ['A', 'B']
+
+Stack Underflow:
+Error: Stack underflow
+
+Stack Overflow:
+Error: Stack overflow
+
+
+QUEUE OPERATIONS
+
+Array Queue:
+Enqueue: A
+Enqueue: B
+Enqueue: C
+Current Queue: ['A', 'B', 'C']
+Peek Front: A
+Dequeue: A
+Updated Queue: ['B', 'C']
+
+Queue Underflow:
+Error: Queue underflow
+
+Queue Overflow:
+Error: Queue overflow
+
+
+CIRCULAR QUEUE WRAP-AROUND
+
+Capacity: 3
+Enqueue: A
+Enqueue: B
+Enqueue: C
+Dequeue: A
+Enqueue: D
+Updated Queue: ['B', 'C', 'D']
+
+
+APPLICATIONS
+
+Balanced Parentheses:
+({[]}) = True
+([)] = False
+
+Print Queue:
+JOB101 - 3 pages
+JOB102 - 5 pages
+JOB103 - 2 pages
+
+Printing Order:
+JOB101
+JOB102
+JOB103
